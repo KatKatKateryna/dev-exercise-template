@@ -1,6 +1,6 @@
 server:
     bind:
-        host: 0.0.0.0
+        host: 165.22.193.172
         port: 80
     url: ${PHOST}
     mimetype: application/json; charset=UTF-8
