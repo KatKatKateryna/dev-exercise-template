@@ -1,0 +1,1433 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.408333333333333,
+          40.20527777777778
+        ]
+      },
+      "properties": {
+        "pageId": 13237582,
+        "name": "Pavilhão Multidesportos Dr. Mário Mexia",
+        "distance_m": 543.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Pavilhão_Multidesportos_Dr._Mário_Mexia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.417,
+          40.21
+        ]
+      },
+      "properties": {
+        "pageId": 12610214,
+        "name": "Sé Nova (Coimbra)",
+        "distance_m": 594.4,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Sé_Nova_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.414833333333334,
+          40.20516666666667
+        ]
+      },
+      "properties": {
+        "pageId": 7914977,
+        "name": "Penedo da Saudade",
+        "distance_m": 676.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Penedo_da_Saudade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.407777777777778,
+          40.20333333333333
+        ]
+      },
+      "properties": {
+        "pageId": 1005802,
+        "name": "Estádio Cidade de Coimbra",
+        "distance_m": 764.9,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Estádio_Cidade_de_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42,
+          40.21
+        ]
+      },
+      "properties": {
+        "pageId": 2008877,
+        "name": "Coimbra (intermunicipal community)",
+        "distance_m": 849.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Coimbra_(intermunicipal_community)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41388888888889,
+          40.20277777777778
+        ]
+      },
+      "properties": {
+        "pageId": 378109,
+        "name": "Coimbra",
+        "distance_m": 868.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4213,
+          40.2094
+        ]
+      },
+      "properties": {
+        "pageId": 414138,
+        "name": "Coimbra University Radio",
+        "distance_m": 961.9,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Coimbra_University_Radio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.404,
+          40.218
+        ]
+      },
+      "properties": {
+        "pageId": 18997028,
+        "name": "Santo António dos Olivais",
+        "distance_m": 1025.1,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Santo_António_dos_Olivais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4214,
+          40.2058
+        ]
+      },
+      "properties": {
+        "pageId": 2228967,
+        "name": "Botanical Garden of the University of Coimbra",
+        "distance_m": 1074.9,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Botanical_Garden_of_the_University_of_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.422971,
+          40.208165
+        ]
+      },
+      "properties": {
+        "pageId": 44239335,
+        "name": "Colégio das Artes",
+        "distance_m": 1120.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Colégio_das_Artes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.423,
+          40.208
+        ]
+      },
+      "properties": {
+        "pageId": 43359253,
+        "name": "Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu)",
+        "distance_m": 1126.1,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Coimbra_(Sé_Nova,_Santa_Cruz,_Almedina_e_São_Bartolomeu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4237,
+          40.2102
+        ]
+      },
+      "properties": {
+        "pageId": 14752796,
+        "name": "Science Museum of the University of Coimbra",
+        "distance_m": 1163.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Science_Museum_of_the_University_of_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4241978,
+          40.2086843
+        ]
+      },
+      "properties": {
+        "pageId": 15672247,
+        "name": "Centre for Neuroscience and Cell Biology",
+        "distance_m": 1214.5,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Centre_for_Neuroscience_and_Cell_Biology"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.413043,
+          40.220907
+        ]
+      },
+      "properties": {
+        "pageId": 861885,
+        "name": "Hospitais da Universidade de Coimbra",
+        "distance_m": 1240.0,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Hospitais_da_Universidade_de_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4246,
+          40.2097
+        ]
+      },
+      "properties": {
+        "pageId": 5984912,
+        "name": "New Cathedral of Coimbra",
+        "distance_m": 1240.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/New_Cathedral_of_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.425494444444444,
+          40.20879166666667
+        ]
+      },
+      "properties": {
+        "pageId": 7749075,
+        "name": "Machado de Castro National Museum",
+        "distance_m": 1322.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Machado_de_Castro_National_Museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4256983,
+          40.208639
+        ]
+      },
+      "properties": {
+        "pageId": 2228775,
+        "name": "Aeminium",
+        "distance_m": 1341.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Aeminium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42645,
+          40.207414
+        ]
+      },
+      "properties": {
+        "pageId": 11322037,
+        "name": "Chapel of São Miguel",
+        "distance_m": 1426.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Chapel_of_São_Miguel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4265,
+          40.2074
+        ]
+      },
+      "properties": {
+        "pageId": 715164,
+        "name": "University of Coimbra",
+        "distance_m": 1430.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/University_of_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4265,
+          40.2071
+        ]
+      },
+      "properties": {
+        "pageId": 2301562,
+        "name": "Biblioteca Joanina",
+        "distance_m": 1437.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Biblioteca_Joanina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.427083333333332,
+          40.20877777777778
+        ]
+      },
+      "properties": {
+        "pageId": 5259458,
+        "name": "Old Cathedral of Coimbra",
+        "distance_m": 1457.0,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Old_Cathedral_of_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4271,
+          40.2088
+        ]
+      },
+      "properties": {
+        "pageId": 8113050,
+        "name": "Diocese of Coimbra",
+        "distance_m": 1458.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Diocese_of_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4228,
+          40.2008
+        ]
+      },
+      "properties": {
+        "pageId": 40361503,
+        "name": "Almedina (Coimbra)",
+        "distance_m": 1492.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Almedina_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42783,
+          40.21126
+        ]
+      },
+      "properties": {
+        "pageId": 62442679,
+        "name": "Jardim da Manga",
+        "distance_m": 1520.5,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Jardim_da_Manga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.428863888888888,
+          40.21094444444445
+        ]
+      },
+      "properties": {
+        "pageId": 2312890,
+        "name": "Monastery of the Holy Cross (Coimbra)",
+        "distance_m": 1605.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Monastery_of_the_Holy_Cross_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.428888888888888,
+          40.211111111111116
+        ]
+      },
+      "properties": {
+        "pageId": 1795183,
+        "name": "Coimbra District",
+        "distance_m": 1608.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Coimbra_District"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4295292,
+          40.2094718
+        ]
+      },
+      "properties": {
+        "pageId": 33259584,
+        "name": "Igreja de Santiago (Coimbra)",
+        "distance_m": 1659.4,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Igreja_de_Santiago_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.413788,
+          40.225004
+        ]
+      },
+      "properties": {
+        "pageId": 11291609,
+        "name": "Centro Hospitalar de Coimbra",
+        "distance_m": 1699.1,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Centro_Hospitalar_de_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.427222222222222,
+          40.20111111111111
+        ]
+      },
+      "properties": {
+        "pageId": 28889144,
+        "name": "Pedro e Inês bridge",
+        "distance_m": 1765.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Pedro_e_Inês_bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.430555555555555,
+          40.20611111111111
+        ]
+      },
+      "properties": {
+        "pageId": 67936609,
+        "name": "Ponte de Santa Clara",
+        "distance_m": 1798.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Ponte_de_Santa_Clara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.430932,
+          40.213285
+        ]
+      },
+      "properties": {
+        "pageId": 33259495,
+        "name": "Igreja da Graça (Coimbra)",
+        "distance_m": 1814.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Igreja_da_Graça_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4321,
+          40.2143
+        ]
+      },
+      "properties": {
+        "pageId": 54649725,
+        "name": "Palácio da Justiça (Coimbra)",
+        "distance_m": 1936.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Palácio_da_Justiça_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4104,
+          40.1924
+        ]
+      },
+      "properties": {
+        "pageId": 2678033,
+        "name": "Instituto Superior de Engenharia de Coimbra",
+        "distance_m": 1957.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Instituto_Superior_de_Engenharia_de_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.414164,
+          40.192167
+        ]
+      },
+      "properties": {
+        "pageId": 8039074,
+        "name": "Instituto Pedro Nunes",
+        "distance_m": 2014.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Instituto_Pedro_Nunes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43388888888889,
+          40.21
+        ]
+      },
+      "properties": {
+        "pageId": 67961891,
+        "name": "São Bartolomeu (Coimbra)",
+        "distance_m": 2028.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/São_Bartolomeu_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43,
+          40.22
+        ]
+      },
+      "properties": {
+        "pageId": 4107535,
+        "name": "Baixo Mondego",
+        "distance_m": 2029.9,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Baixo_Mondego"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.433438888888888,
+          40.202755555555555
+        ]
+      },
+      "properties": {
+        "pageId": 14908177,
+        "name": "Monastery of Santa Clara-a-Velha",
+        "distance_m": 2147.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Monastery_of_Santa_Clara-a-Velha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43475,
+          40.20598
+        ]
+      },
+      "properties": {
+        "pageId": 8080313,
+        "name": "Coimbra University Stadium",
+        "distance_m": 2148.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Coimbra_University_Stadium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.434166666666666,
+          40.20305555555556
+        ]
+      },
+      "properties": {
+        "pageId": 8199857,
+        "name": "Portugal dos Pequenitos",
+        "distance_m": 2192.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Portugal_dos_Pequenitos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42361111111111,
+          40.192499999999995
+        ]
+      },
+      "properties": {
+        "pageId": 65324595,
+        "name": "Rainha Santa Isabel Bridge",
+        "distance_m": 2263.4,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Rainha_Santa_Isabel_Bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4362,
+          40.2034
+        ]
+      },
+      "properties": {
+        "pageId": 15013151,
+        "name": "Monastery of Santa Clara-a-Nova",
+        "distance_m": 2342.9,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Monastery_of_Santa_Clara-a-Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.433333333333334,
+          40.198055555555555
+        ]
+      },
+      "properties": {
+        "pageId": 7914905,
+        "name": "Quinta das Lágrimas",
+        "distance_m": 2385.5,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Quinta_das_Lágrimas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.44,
+          40.2
+        ]
+      },
+      "properties": {
+        "pageId": 43359312,
+        "name": "Santa Clara e Castelo Viegas",
+        "distance_m": 2779.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Santa_Clara_e_Castelo_Viegas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.417777777777777,
+          40.235
+        ]
+      },
+      "properties": {
+        "pageId": 67961693,
+        "name": "Eiras (Coimbra)",
+        "distance_m": 2857.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Eiras_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.417777777777777,
+          40.235
+        ]
+      },
+      "properties": {
+        "pageId": 67941698,
+        "name": "Eiras e São Paulo de Frades",
+        "distance_m": 2857.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Eiras_e_São_Paulo_de_Frades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.380555555555556,
+          40.195277777777775
+        ]
+      },
+      "properties": {
+        "pageId": 67942345,
+        "name": "Torres do Mondego",
+        "distance_m": 2988.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Torres_do_Mondego"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.396944444444443,
+          40.183055555555555
+        ]
+      },
+      "properties": {
+        "pageId": 24738247,
+        "name": "Ceira River",
+        "distance_m": 3194.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Ceira_River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.438333333333334,
+          40.19083333333333
+        ]
+      },
+      "properties": {
+        "pageId": 15015796,
+        "name": "Santa Clara (Coimbra)",
+        "distance_m": 3214.4,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Santa_Clara_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.446111111111112,
+          40.221944444444446
+        ]
+      },
+      "properties": {
+        "pageId": 7914704,
+        "name": "Choupal National Forest",
+        "distance_m": 3341.5,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Choupal_National_Forest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.451417,
+          40.213139
+        ]
+      },
+      "properties": {
+        "pageId": 20003002,
+        "name": "Escola Superior Agrária de Coimbra",
+        "distance_m": 3534.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Escola_Superior_Agrária_de_Coimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.446111111111112,
+          40.22777777777778
+        ]
+      },
+      "properties": {
+        "pageId": 32909436,
+        "name": "Santa Cruz (Coimbra)",
+        "distance_m": 3648.1,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Santa_Cruz_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.446666666666667,
+          40.227222222222224
+        ]
+      },
+      "properties": {
+        "pageId": 14732483,
+        "name": "Centro de Estágios da Académica",
+        "distance_m": 3655.1,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Centro_de_Estágios_da_Académica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.392,
+          40.172
+        ]
+      },
+      "properties": {
+        "pageId": 24738196,
+        "name": "Ceira (Coimbra)",
+        "distance_m": 4493.5,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Ceira_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.370833333333334,
+          40.24333333333333
+        ]
+      },
+      "properties": {
+        "pageId": 67961973,
+        "name": "São Paulo de Frades",
+        "distance_m": 4979.4,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/São_Paulo_de_Frades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4075,
+          40.165
+        ]
+      },
+      "properties": {
+        "pageId": 67961581,
+        "name": "Castelo Viegas",
+        "distance_m": 5008.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Castelo_Viegas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.469444444444445,
+          40.213055555555556
+        ]
+      },
+      "properties": {
+        "pageId": 67937862,
+        "name": "São Martinho do Bispo e Ribeira de Frades",
+        "distance_m": 5059.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/São_Martinho_do_Bispo_e_Ribeira_de_Frades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.469444444444445,
+          40.213055555555556
+        ]
+      },
+      "properties": {
+        "pageId": 67938220,
+        "name": "São Martinho do Bispo",
+        "distance_m": 5059.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/São_Martinho_do_Bispo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.344791666666667,
+          40.213169444444446
+        ]
+      },
+      "properties": {
+        "pageId": 879881,
+        "name": "Mondego River",
+        "distance_m": 5548.4,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Mondego_River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.432,
+          40.159
+        ]
+      },
+      "properties": {
+        "pageId": 43359218,
+        "name": "Assafarge e Antanhol",
+        "distance_m": 5971.0,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Assafarge_e_Antanhol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.431388888888888,
+          40.15472222222222
+        ]
+      },
+      "properties": {
+        "pageId": 18721151,
+        "name": "Assafarge",
+        "distance_m": 6409.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Assafarge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43388888888889,
+          40.26777777777777
+        ]
+      },
+      "properties": {
+        "pageId": 67962176,
+        "name": "Torre de Vilela",
+        "distance_m": 6737.0,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Torre_de_Vilela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.399805555555556,
+          40.147638888888885
+        ]
+      },
+      "properties": {
+        "pageId": 50589296,
+        "name": "Tower of Bera",
+        "distance_m": 6988.1,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Tower_of_Bera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.39861111111111,
+          40.2725
+        ]
+      },
+      "properties": {
+        "pageId": 67941583,
+        "name": "Brasfemes",
+        "distance_m": 7016.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Brasfemes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.492777777777777,
+          40.19972222222222
+        ]
+      },
+      "properties": {
+        "pageId": 67940813,
+        "name": "Ribeira de Frades",
+        "distance_m": 7122.1,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Ribeira_de_Frades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.481111111111112,
+          40.17166666666667
+        ]
+      },
+      "properties": {
+        "pageId": 67961309,
+        "name": "Antanhol",
+        "distance_m": 7392.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Antanhol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.48,
+          40.255
+        ]
+      },
+      "properties": {
+        "pageId": 65429007,
+        "name": "Antuzede e Vil de Matos",
+        "distance_m": 7768.4,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Antuzede_e_Vil_de_Matos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.480833333333333,
+          40.25555555555555
+        ]
+      },
+      "properties": {
+        "pageId": 67962266,
+        "name": "Vil de Matos",
+        "distance_m": 7862.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Vil_de_Matos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.480833333333333,
+          40.25555555555555
+        ]
+      },
+      "properties": {
+        "pageId": 67961385,
+        "name": "Antuzede",
+        "distance_m": 7862.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Antuzede"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47,
+          40.15611111111111
+        ]
+      },
+      "properties": {
+        "pageId": 8399884,
+        "name": "Coimbra Airfield",
+        "distance_m": 7866.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Coimbra_Airfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.452777777777778,
+          40.275555555555556
+        ]
+      },
+      "properties": {
+        "pageId": 67942355,
+        "name": "Trouxemil e Torre de Vilela",
+        "distance_m": 8143.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Trouxemil_e_Torre_de_Vilela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.452777777777778,
+          40.275555555555556
+        ]
+      },
+      "properties": {
+        "pageId": 67962208,
+        "name": "Trouxemil",
+        "distance_m": 8143.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Trouxemil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.509444444444444,
+          40.202222222222225
+        ]
+      },
+      "properties": {
+        "pageId": 67942307,
+        "name": "Taveiro, Ameal e Arzila",
+        "distance_m": 8489.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Taveiro,_Ameal_e_Arzila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.509444444444444,
+          40.202222222222225
+        ]
+      },
+      "properties": {
+        "pageId": 67962130,
+        "name": "Taveiro",
+        "distance_m": 8489.3,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Taveiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.424999999999999,
+          40.28666666666666
+        ]
+      },
+      "properties": {
+        "pageId": 67942259,
+        "name": "Souselas e Botão",
+        "distance_m": 8619.5,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Souselas_e_Botão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.424999999999999,
+          40.28666666666666
+        ]
+      },
+      "properties": {
+        "pageId": 67962047,
+        "name": "Souselas",
+        "distance_m": 8619.5,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Souselas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.509683333333333,
+          40.18683055555555
+        ]
+      },
+      "properties": {
+        "pageId": 7655020,
+        "name": "Estádio Municipal Sérgio Conceição",
+        "distance_m": 8849.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Estádio_Municipal_Sérgio_Conceição"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.396,
+          40.13
+        ]
+      },
+      "properties": {
+        "pageId": 65428964,
+        "name": "Almalaguês",
+        "distance_m": 8974.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Almalaguês"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.468055555555555,
+          40.140277777777776
+        ]
+      },
+      "properties": {
+        "pageId": 67941642,
+        "name": "Cernache",
+        "distance_m": 9188.8,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Cernache"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.387802777777777,
+          40.12898888888889
+        ]
+      },
+      "properties": {
+        "pageId": 31209881,
+        "name": "Fountain of Calvo",
+        "distance_m": 9203.4,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Fountain_of_Calvo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.511388888888888,
+          40.24333333333333
+        ]
+      },
+      "properties": {
+        "pageId": 67942104,
+        "name": "São João do Campo",
+        "distance_m": 9371.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/São_João_do_Campo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.31747,
+          40.25924
+        ]
+      },
+      "properties": {
+        "pageId": 64317072,
+        "name": "Lorvão Abbey",
+        "distance_m": 9574.6,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Lorvão_Abbey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.316,
+          40.261
+        ]
+      },
+      "properties": {
+        "pageId": 33440598,
+        "name": "Lorvão",
+        "distance_m": 9789.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Lorvão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.52361111111111,
+          40.23027777777778
+        ]
+      },
+      "properties": {
+        "pageId": 67942226,
+        "name": "São Silvestre (Coimbra)",
+        "distance_m": 9906.2,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/São_Silvestre_(Coimbra)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.352,
+          40.288
+        ]
+      },
+      "properties": {
+        "pageId": 33438643,
+        "name": "Figueira de Lorvão",
+        "distance_m": 9972.7,
+        "namespace": 0,
+        "url": "https://en.wikipedia.org/wiki/Figueira_de_Lorvão"
+      }
+    }
+  ]
+}

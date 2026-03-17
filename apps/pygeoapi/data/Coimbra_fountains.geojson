@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Coimbra_fountains",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n760854379", "osm_id": "760854379", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": "Aqua" }, "geometry": { "type": "Point", "coordinates": [ -8.4110958, 40.1950574 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1346949339", "osm_id": "1346949339", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4214339, 40.2057803 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1357775249", "osm_id": "1357775249", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4208291, 40.2058977 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2278788465", "osm_id": "2278788465", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4278321, 40.2112727 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5176145972", "osm_id": "5176145972", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": "Fonte no rio" }, "geometry": { "type": "Point", "coordinates": [ -8.4285464, 40.2045354 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8645218049", "osm_id": "8645218049", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4026993, 40.2096531 ] } },
+{ "type": "Feature", "properties": { "full_id": "n9650491285", "osm_id": "9650491285", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4015675, 40.1844901 ] } },
+{ "type": "Feature", "properties": { "full_id": "n9696301930", "osm_id": "9696301930", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": "1771", "name": "Fonte do Gato" }, "geometry": { "type": "Point", "coordinates": [ -8.4036462, 40.2206351 ] } },
+{ "type": "Feature", "properties": { "full_id": "n9793965402", "osm_id": "9793965402", "osm_type": "node", "amenity": "fountain", "drinking_water": "no", "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4065661, 40.211868 ] } },
+{ "type": "Feature", "properties": { "full_id": "n9955843550", "osm_id": "9955843550", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4054738, 40.2176781 ] } },
+{ "type": "Feature", "properties": { "full_id": "n10773754449", "osm_id": "10773754449", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4268791, 40.2085135 ] } },
+{ "type": "Feature", "properties": { "full_id": "n12497072755", "osm_id": "12497072755", "osm_type": "node", "amenity": "fountain", "drinking_water": "yes", "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.456017, 40.1996836 ] } },
+{ "type": "Feature", "properties": { "full_id": "n12781981149", "osm_id": "12781981149", "osm_type": "node", "amenity": "fountain", "drinking_water": null, "start_date": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4337404, 40.2144625 ] } }
+]
+}
