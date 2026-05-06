@@ -11,6 +11,7 @@ services:
       - PHOST
       - DB_HOST
       - INTERNAL_READER_PASSWORD
+      - WORKERS=2
     volumes:
       - ./pygeoapi.config.yml:/pygeoapi/local.config.yml # Config file
       - ./data:/data # Pull data from here
