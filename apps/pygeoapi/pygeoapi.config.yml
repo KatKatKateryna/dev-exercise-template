@@ -54,303 +54,98 @@ metadata:
         role: pointOfContact
 
 resources:
-    coimbra_autonomous_vehicle_gps_points:
+    watersheds:
         type: collection
-        title: Coimbra_autonomous_vehicle_gps_points
-        description: The LIPD Dataset was collected in the Coimbra Univeristy/ISR Campus zone.
+        title: Watersheds level 6
+        description: Polygon geometry for watersheds at level 6.
         keywords: []
         crs:
             - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "Laser and Image Pedestrian Detection Dataset in Urban Environment (LIPD dataset)"
-              href: https://home.deec.uc.pt/~cpremebida/dataset.html
-              hreflang: en-US
         extents:
             spatial:
-                bbox: [-8.424,40.19,-8.41,40.19]
+                bbox: [-180,-90,180,90]
                 crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
             temporal:
                 begin: null
                 end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_autonomous_vehicle_gps_points.geojson
-              id_field: id
-    coimbra_autonomous_vehicle_gps_path:
+        providers:              
+            -   name: PostgreSQL
+                crs:
+                    - http://www.opengis.net/def/crs/OGC/1.3/CRS84
+                    - http://www.opengis.net/def/crs/EPSG/0/4326
+                data:
+                    dbname: postgres
+                    host: localhost
+                    port: 5432
+                    user: mom_internal_reader
+                    password: ${INTERNAL_READER_PASSWORD}
+                    search_path:
+                    - public
+                geom_field: geometry
+                id_field: id
+                storage_crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
+                table: view_summary_final_alert
+                type: feature
+    final_alert:
         type: collection
-        title: Coimbra_autonomous_vehicle_path
-        description: The LIPD Dataset was collected in the Coimbra Univeristy/ISR Campus zone.
+        title: Final Alert (no geometry)
+        description: Alert level per watershed.
         keywords: []
         crs:
             - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "Laser and Image Pedestrian Detection Dataset in Urban Environment (LIPD dataset)"
-              href: https://home.deec.uc.pt/~cpremebida/dataset.html
-              hreflang: en-US
         extents:
             spatial:
-                bbox: [-8.424,40.19,-8.41,40.19]
+                bbox: [-180,-90,180,90]
                 crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
             temporal:
                 begin: null
                 end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_autonomous_vehicle_path.geojson
-              id_field: id 
-    coimbra_fountains:
+        providers:              
+            -   name: PostgreSQL
+                crs:
+                    - http://www.opengis.net/def/crs/OGC/1.3/CRS84
+                    - http://www.opengis.net/def/crs/EPSG/0/4326
+                data:
+                    dbname: postgres
+                    host: localhost
+                    port: 5432
+                    user: mom_internal_reader
+                    password: ${INTERNAL_READER_PASSWORD}
+                    search_path:
+                    - public
+                id_field: id
+                storage_crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
+                table: summary_final_alert
+                type: feature
+    final_alert:
         type: collection
-        title: Coimbra fountains
-        description: OpenStreetMap data
+        title: Final Alert with geometry
+        description: Alert level per watershed.
         keywords: []
         crs:
             - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "OpenStreetMap data"
-              href: https://www.openstreetmap.org/
-              hreflang: en-US
         extents:
             spatial:
-                bbox: [-8.44,40.18,-8.37,40.22]
+                bbox: [-180,-90,180,90]
                 crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
             temporal:
                 begin: null
                 end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_fountains.geojson
-              id_field: id 
-    coimbra_historic_spots:
-        type: collection
-        title: Coimbra historic spots
-        description: OpenStreetMap data
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "OpenStreetMap data"
-              href: https://www.openstreetmap.org/
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-8.44,40.18,-8.37,40.22]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_historic_spots.geojson
-              id_field: id 
-    coimbra_stairs:
-        type: collection
-        title: Coimbra stairs
-        description: OpenStreetMap data
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "OpenStreetMap data"
-              href: https://www.openstreetmap.org/
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-8.44,40.18,-8.37,40.22]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_stairs.geojson
-              id_field: id 
-    coimbra_viewpoints:
-        type: collection
-        title: Coimbra viewpoints
-        description: OpenStreetMap data
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "OpenStreetMap data"
-              href: https://www.openstreetmap.org/
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-8.44,40.18,-8.37,40.22]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_viewpoints.geojson
-              id_field: id 
-    coimbra_nature_observations:
-        type: collection
-        title: Coimbra, reported nature observations
-        description: iNaturalist helps you identify the plants and animals around you
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "iNaturalist API"
-              href: https://api.inaturalist.org/v1/docs/
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-8.44,40.18,-8.37,40.22]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_nature_observations.geojson
-              id_field: id 
-    coimbra_population:
-        type: collection
-        title: Coimbra, population per 300x300m
-        description: iNaturalist helps you identify the plants and animals around you
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "GHSL - Global Human Settlement Layer"
-              href: https://human-settlement.emergency.copernicus.eu/download.php
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-8.55,40.14,-8.30,40.30]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_population.geojson
-              id_field: id 
-    coimbra_public_transport:
-        type: collection
-        title: Static GTFS | Municipal Urban Transport Services of Coimbra
-        description: The Municipal Urban Transport Services of Coimbra are responsible for managing the bus and trolleybus network and a public elevator in the municipality of Coimbra.
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "Mobility database, SMTUC"
-              href: https://mobilitydatabase.org/feeds/gtfs/mdb-2992
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-8.55,40.11,-8.35,40.35]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_public_transport.geojson
-              id_field: id 
-    coimbra_wiki_articles:
-        type: collection
-        title: Coimbra Wikipedia articles
-        description: Wikipedia articles with geolocation in Coimbra
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "Wikimedia REST API"
-              href: https://en.wikipedia.org/wiki/Special:RestSandbox/wmf-restbase
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-8.52,40.13,-8.31,40.28]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Coimbra_wiki_articles.geojson
-              id_field: id 
-    portugal_wildfires:
-        type: collection
-        title: ICNF Fire Data Retriever
-        description: Data on rural fires in Portugal
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "ICNF Fire Data Retriever"
-              href: https://dados.gov.pt/pt/datasets/icnf-fire-data-retriever/
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-9.26,37.28,-6.28,42.06]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Portugal_wildfires.geojson
-              id_field: id 
-    lisbon_public_transport:
-        type: collection
-        title: GTFS oficial da Carris Metropolitana
-        description: GTFS data for Lisbon
-        keywords: []
-        crs:
-            - CRS84
-        links:
-            - type: text/html
-              rel: download
-              title: "GTFS oficial da Carris Metropolitana"
-              href: https://github.com/carrismetropolitana/gtfs
-              hreflang: en-US
-        extents:
-            spatial:
-                bbox: [-9.49,38.42,-8.45,39.08]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
-            temporal:
-                begin: null
-                end: null 
-        providers:
-            - type: feature
-              name: GeoJSON
-              data: /data/Lisbon_public_transport.geojson
-              id_field: id 
+        providers:              
+            -   name: PostgreSQL
+                crs:
+                    - http://www.opengis.net/def/crs/OGC/1.3/CRS84
+                    - http://www.opengis.net/def/crs/EPSG/0/4326
+                data:
+                    dbname: postgres
+                    host: localhost
+                    port: 5432
+                    user: mom_internal_reader
+                    password: ${INTERNAL_READER_PASSWORD}
+                    search_path:
+                    - public
+                geom_field: geometry
+                id_field: id
+                storage_crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
+                table: view_summary_final_alert
+                type: feature
