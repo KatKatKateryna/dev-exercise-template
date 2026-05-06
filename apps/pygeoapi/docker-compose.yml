@@ -9,6 +9,8 @@ services:
       - 5001:80
     environment:
       - PHOST
+      - DB_HOST
+      - INTERNAL_READER_PASSWORD
     volumes:
       - ./pygeoapi.config.yml:/pygeoapi/local.config.yml # Config file
       - ./data:/data # Pull data from here
